@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **federicoaieta@gmail.com** or **mase1111** on Discord
 
-- 🎓 Currently studying on **UTN FRA** (Universidad Tecnológica Nacional: Facultad Regional Avellaneda)
+- 🎓 Currently studying on **UTN FRA** (Universidad Tecnológica Nacional)
 
 </div>
 
