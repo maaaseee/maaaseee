@@ -11,9 +11,9 @@
 <h3>🌱 I’m currently learning <strong>Java, MySQL, and Git</strong></h3>
 
 <h3>📫 How to reach me:</h3>
-- federicoaieta@gmail.com 
+ federicoaieta@gmail.com 
   or 
-- <strong>mase1111</strong> on <img src="https://skillicons.dev/icons?i=discord" alt="Discord" style="width:20px; height:20px;"> Discord
+ <strong>mase1111</strong> on <img src="https://skillicons.dev/icons?i=discord" alt="Discord" style="width:20px; height:20px;"> Discord
 
 <h3>🎓 Currently studying at UTN FRA (Universidad Tecnológica Nacional)</h3>
 
