@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **Java, MySQL and Git**
 
-- 📫 How to reach me **federicoaieta@gmail.com**
+- 📫 How to reach me **federicoaieta@gmail.com** or **mase1111** on Discord
 
 - 🎓 Currently studying on UTN FRA (Universidad Tecnológica Nacional: Facultad Regional Avellaneda)
 
