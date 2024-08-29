@@ -15,7 +15,7 @@
   or 
  <strong>mase1111</strong> on Discord <img src="https://skillicons.dev/icons?i=discord" alt="Discord" style="width:20px; height:20px;">
 
-<h3>🎓 Currently studying at UTN FRA (Universidad Tecnológica Nacional)</h3>
+<h3>🎓 Studying at UTN FRA (Universidad Tecnológica Nacional)</h3>
 
 </div>
 
