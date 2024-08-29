@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Federico Aieta</h1>
 <h3 align="center">A backend developer on a learning path, from Argentina, Buenos Aires.</h3>
 
-<h3>- 🌱 I’m currently learning **Java, MySQL and Git**</h3>
+<h5>- 🌱 I’m currently learning **Java, MySQL and Git**</h3>
 
-<h3>- 📫 How to reach me **federicoaieta@gmail.com**</h3>
+<h5>- 📫 How to reach me **federicoaieta@gmail.com**</h3>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
+<h2 align="center">Connect with me:</h2>
+<p align="center">
 <a href="https://instagram.com/fede.aieta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fede.aieta" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@maaaseee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@maaaseee" height="30" width="40" /></a>
 </p>
