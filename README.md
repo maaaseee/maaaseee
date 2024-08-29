@@ -5,12 +5,12 @@
 </h2>
 
 <div align="center">
-  
-- 🌱 I’m currently learning **Java, MySQL and Git**
 
-- 📫 How to reach me **federicoaieta@gmail.com** or **mase1111** on Discord
+<h3>🌱 I’m currently learning <strong>Java, MySQL and Git</strong></h3>
 
-- 🎓 Currently studying on **UTN FRA** (Universidad Tecnológica Nacional)
+<h3>📫 How to reach me <strong>federicoaieta@gmail.com</strong> or <strong>mase1111</strong> on Discord</h3>
+
+<h3>🎓 Currently studying on <strong>UTN FRA</strong> (Universidad Tecnológica Nacional)</h3>
 
 </div>
 
