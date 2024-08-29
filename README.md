@@ -26,8 +26,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,python,mysql,vscode,obsidian,md&theme=dark" height="60" width="500"/>
   </a>
-  <a href="https://instagram.com/fede.aieta" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Apache_NetBeans_Logo.svg/2560px-Apache_NetBeans_Logo.svg.png" alt="fede.aieta" height="50" width="60" />
+  <a href="https://netbeans.apache.org/front/main/index.html" target="_blank">
+    <img align="center" src="https://github.com/maaaseee/maaaseee/blob/73895627f00ac5204c65357989a231e2cdd87146/resources/pngwing.com.png" alt="fede.aieta" height="50" width="60" />
   </a>
 </p>
 
