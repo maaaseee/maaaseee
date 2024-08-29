@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<h3>🌱 I’m currently learning <strong>Java, MySQL, and Git</strong></h3>
+<h3>🌱 I’m currently learning <strong>Git, Java and MySQL</strong></h3>
 
 <h3>📫 How to reach me:</h3>
  <strong>federicoaieta@gmail.com</strong>
