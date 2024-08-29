@@ -10,7 +10,7 @@
 
 <h3>📫 How to reach me federicoaieta@gmail.com or <strong>>mase1111</strong> on Discord</h3>
 
-<h3>🎓 Currently studying at <strong><span style="color: #2196F3;">UTN FRA</span></strong> (Universidad Tecnológica Nacional)</h3>
+<h3>🎓 Currently studying at UTN FRA (Universidad Tecnológica Nacional)</h3>
 
 </div>
 
