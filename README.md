@@ -7,8 +7,8 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://instagram.com/fede.aieta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fede.aieta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@maaaseee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@maaaseee" height="30" width="40" /></a>
+<a href="https://instagram.com/fede.aieta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fede.aieta" height="60" width="60" /></a>
+<a href="https://www.youtube.com/@maaaseee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@maaaseee" height="60" width="60" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
