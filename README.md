@@ -18,7 +18,7 @@
 
 ---
 
-<h2 align="center">⚙️ Languages and Tools:</h2>
+<h2 align="center">⚙️ Languages and Tools </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,python,mysql,vscode,obsidian,md&theme=dark" height="60" width="500"/>
@@ -27,7 +27,7 @@
 
 ---
 
-<h2 align="center">🔗 Connect with me:</h2>
+<h2 align="center">🔗 Connect with me </h2>
 <p align="center">
   <a href="https://instagram.com/fede.aieta" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fede.aieta" height="50" width="60" />
