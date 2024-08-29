@@ -8,7 +8,7 @@
 
 <h3>🌱 I’m currently learning <strong>Java, MySQL, and Git</strong></h3>
 
-<h3>📫 How to reach me federicoaieta@gmail.com or <strong>mase1111</strong> on <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Discord_logo.svg" alt="Discord" style="width:20px; height:20px;"> Discord</h3>
+<h3>📫 How to reach me federicoaieta@gmail.com or <strong>mase1111</strong> on <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/discord.svg" alt="Discord" style="width:20px; height:20px;"> Discord</h3>
 
 <h3>🎓 Currently studying at UTN FRA (Universidad Tecnológica Nacional)</h3>
 
