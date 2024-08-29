@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Federico Aieta</h1>
 <h3 align="center">A backend developer on a learning path, from Argentina, Buenos Aires.</h3>
 
-<h3>- 🌱 I’m currently learning **Java, MySQL and Git**</h3>
+- 🌱 I’m currently learning **Java, MySQL and Git**
 
-<h3>- 📫 How to reach me **federicoaieta@gmail.com**</h3>
+- 📫 How to reach me **federicoaieta@gmail.com**
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
