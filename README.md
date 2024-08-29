@@ -4,6 +4,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina Flag" width="30"/>
 </h2>
 
+---
+
 <div align="center">
 
 <h3>🌱 I’m currently learning <strong>Java, MySQL, and Git</strong></h3>
