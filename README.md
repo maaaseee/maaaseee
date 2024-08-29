@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=git,java,python,mysql,vscode,obsidian,md&theme=dark" height="60" width="500"/>
   </a>
   <a href="https://netbeans.apache.org/front/main/index.html" target="_blank">
-    <img align="top" src="https://github.com/maaaseee/maaaseee/blob/73895627f00ac5204c65357989a231e2cdd87146/resources/pngwing.com.png" alt="fede.aieta" height="60" width="60" />
+    <img align="top" src="https://github.com/maaaseee/maaaseee/blob/73895627f00ac5204c65357989a231e2cdd87146/resources/pngwing.com.png" alt="fede.aieta" height="50" width="50" />
   </a>
 </p>
 
