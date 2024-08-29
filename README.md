@@ -19,3 +19,13 @@
 <a href="https://instagram.com/fede.aieta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fede.aieta" height="50" width="60" /></a>
 <a href="https://www.youtube.com/@maaaseee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@maaaseee" height="50" width="60" /></a>
 </p>
+
+---
+
+<h2 align="center">📊 GitHub Stats:</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" alt="Federico's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical" alt="Federico's GitHub Top Languages" width="400"/>
+</div>
+
+---
