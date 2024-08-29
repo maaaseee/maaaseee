@@ -26,6 +26,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,python,mysql,vscode,obsidian,md&theme=dark" height="60" width="500"/>
   </a>
+  <a href="https://netbeans.apache.org/front/main/index.html">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Apache_NetBeans_Logo.svg" alt="Apache NetBeans Logo" width="60">
+  </a>
 </p>
 
 ---
