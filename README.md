@@ -24,8 +24,8 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" alt="Federico's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical" alt="Federico's GitHub Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maaaseee&show_icons=true&theme=radical" alt="Federico's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaaseee&layout=compact&theme=radical" alt="Federico's GitHub Top Languages" width="400"/>
 </div>
 
 ---
