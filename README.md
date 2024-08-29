@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Federico Aieta</h1>
-<h3 align="center">A backend developer on a learning path, from Buenos Aires, Argentina 🇦🇷</h3>
 <h3 align="center">
   A backend developer on a learning path, from Buenos Aires, Argentina
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina Flag" width="30"/>
