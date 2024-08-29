@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **federicoaieta@gmail.com**
 
-- 🎓 Currently studying in UTN FRA (Universidad Tecnológica Nacional: Facultad Regional Avellaneda)
+- 🎓 Currently studying on UTN FRA (Universidad Tecnológica Nacional: Facultad Regional Avellaneda)
 
 </div>
 
