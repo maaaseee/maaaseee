@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/maaaseee/maaaseee/blob/45e2a63df6b6b053cb708028fc2462d0a01af483/resources/121662.gif" alt="animated"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Federico Aieta</h1>
 <h2 align="center">
   A backend developer on a learning path, from Buenos Aires, Argentina
