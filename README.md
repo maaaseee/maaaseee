@@ -8,8 +8,9 @@
   <img src="https://github.com/maaaseee/maaaseee/blob/45e2a63df6b6b053cb708028fc2462d0a01af483/resources/121662.gif" alt="animated" width="720" height="500"/>
 </p>
 
-
 ---
+
+<h2 align="center">🛠 About me </h2>
 
 <div align="center">
 
