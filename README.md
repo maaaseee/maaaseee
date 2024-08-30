@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="https://github.com/maaaseee/maaaseee/blob/45e2a63df6b6b053cb708028fc2462d0a01af483/resources/121662.gif" alt="animated" width="720" height="500"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm Federico Aieta</h1>
 <h2 align="center">
   A backend developer on a learning path, from Buenos Aires, Argentina
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina Flag" width="30"/>
 </h2>
+
+<p align="center">
+  <img src="https://github.com/maaaseee/maaaseee/blob/45e2a63df6b6b053cb708028fc2462d0a01af483/resources/121662.gif" alt="animated" width="720" height="500"/>
+</p>
+
 
 ---
 
