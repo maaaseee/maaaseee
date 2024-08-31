@@ -13,15 +13,15 @@
 <h2 align="center">🛠 About me </h2>
 
 <div align="center">
+  
+### 🌱 I’m currently learning Git, Java and MySQL
 
-<h3>🌱 I’m currently learning <strong>Git, Java and MySQL</strong></h3>
+### 📫 How to reach me: 
 
-<h3>📫 How to reach me:</h3>
- <strong>federicoaieta@gmail.com</strong>
-  or 
- <strong>mase1111</strong> on Discord <img src="https://skillicons.dev/icons?i=discord" alt="Discord" style="width:20px; height:20px;">
+  - **Email:** [federicoaieta@gmail.com](mailto:federicoaieta@gmail.com)
+  - **mase1111 on Discord** <img src="https://skillicons.dev/icons?i=discord" alt="Discord" style="width:18px; height:18px;">
 
-<h3>🎓 Studying at UTN FRA (Universidad Tecnológica Nacional)</h3>
+### 🎓 Studying at UTN FRA (Universidad Tecnológica Nacional)
 
 </div>
 
