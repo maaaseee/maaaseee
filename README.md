@@ -12,27 +12,37 @@
 
 <h2 align="center">🛠 About me </h2>
 
-<div align="center">
-  
-### 🌱 I’m currently learning Git, Java and MySQL
+<div>
 
-### 📫 How to reach me: 
-
-  - **Email:** [federicoaieta@gmail.com](mailto:federicoaieta@gmail.com)
-  - **mase1111 on Discord** <img src="https://skillicons.dev/icons?i=discord" alt="Discord" style="width:18px; height:18px;">
-
-### 🎓 Studying at UTN FRA (Universidad Tecnológica Nacional)
+### - 🎓 Studying at UTN FRA (Universidad Tecnológica Nacional)
 
 </div>
 
----
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+  <!-- Lenguajes -->
+  <div>
+    <h3>🔧 Languages</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,html,css,python&theme=dark&perline=10" height="60" />
+    </a>
+  </div>
 
-<h2 align="center">⚙️ Languages and Tools </h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,python,mysql,vscode,obsidian,md&theme=dark" height="60" width="500"/>
-  </a>
-</p>
+  <!-- Herramientas -->
+  <div>
+    <h3>🎆 Tools</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,mysql,vscode&theme=dark&perline=10" height="60" />
+    </a>
+  </div>
+
+  <div>
+    <h3>🎓 Currently learning</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=spring,mongodb,nodejs,docker,bootstrap,aws,tailwind&theme=dark&perline=10" height="60" />
+    </a>
+  </div>
+</div>
+
 
 ---
 
