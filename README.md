@@ -38,7 +38,7 @@
   <div>
     <h3>🎓 Currently learning</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,mongodb,nodejs,docker,bootstrap,aws,tailwind&theme=dark&perline=10" height="60" />
+      <img src="https://skillicons.dev/icons?i=spring,mongodb,nodejs,docker,bootstrap,aws&theme=dark&perline=10" height="60" />
     </a>
   </div>
 </div>
