@@ -23,7 +23,7 @@
   <div>
     <h3>🔧 Languages</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,html,css,python&theme=dark&perline=10" height="60" />
+      <img src="https://skillicons.dev/icons?i=spring,java,js,html,css,python&theme=dark&perline=10" height="60" />
     </a>
   </div>
 
@@ -31,14 +31,14 @@
   <div>
     <h3>🎆 Tools</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,mysql,vscode&theme=dark&perline=10" height="60" />
+      <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,vscode&theme=dark&perline=10" height="60" />
     </a>
   </div>
 
   <div>
     <h3>🎓 Currently learning</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,mongodb,nodejs,docker,bootstrap,aws&theme=dark&perline=10" height="60" />
+      <img src="https://skillicons.dev/icons?i=docker,typescript,angular,aws&theme=dark&perline=10" height="60" />
     </a>
   </div>
 </div>
