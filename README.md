@@ -55,7 +55,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@maaaseee" height="50" width="60" />
   </a>
   <a href="https://www.linkedin.com/in/federico-aieta-133b8226b/" target="blank">
-    <img align="center" src="" alt="Linkedin" height="50" width="60"/>
+    <img align="center" src="https://github.com/maaaseee/maaaseee/blob/250878cc57a0b30c6d1b8b2c66729b0ab1111082/resources/linkedin.png" alt="Linkedin" height="50" width="50"/>
   </a>
 </p>
 
