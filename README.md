@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/maaaseee/maaaseee/blob/45e2a63df6b6b053cb708028fc2462d0a01af483/resources/121662.gif" alt="animated" width="720" height="420"/>
+  <img src="https://github.com/maaaseee/maaaseee/blob/45e2a63df6b6b053cb708028fc2462d0a01af483/resources/121662.gif" alt="animated" max-width="100%"/>
 </p>
 
 ---
@@ -48,9 +48,6 @@
 
 <h2 align="center">🔗 Connect with me </h2>
 <p align="center">
-  <a href="https://instagram.com/fede.aieta" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fede.aieta" height="50" width="60" />
-  </a>
   <a href="https://www.youtube.com/@maaaseee" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@maaaseee" height="50" width="60" />
   </a>
