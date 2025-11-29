@@ -23,7 +23,7 @@
   <div>
     <h3>🔧 Languages</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,java,js,html,css,python&theme=dark&perline=10" height="60" />
+      <img src="https://skillicons.dev/icons?i=spring,java,js,typescript,angular,html,css,python&theme=dark&perline=10" height="60" />
     </a>
   </div>
 
@@ -38,7 +38,7 @@
   <div>
     <h3>🎓 Currently learning</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,typescript,angular,aws&theme=dark&perline=10" height="60" />
+      <img src="https://skillicons.dev/icons?i=linux,docker,aws&theme=dark&perline=10" height="60" />
     </a>
   </div>
 </div>
@@ -48,11 +48,8 @@
 
 <h2 align="center">🔗 Connect with me </h2>
 <p align="center">
-  <a href="https://www.youtube.com/@maaaseee" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@maaaseee" height="50" width="60" />
-  </a>
   <a href="https://www.linkedin.com/in/federico-aieta-133b8226b/" target="blank">
-    <img align="center" src="https://github.com/maaaseee/maaaseee/blob/250878cc57a0b30c6d1b8b2c66729b0ab1111082/resources/linkedin.png" alt="Linkedin" height="50" width="50"/>
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=10" alt="Linkedin" height="50" width="50"/>
   </a>
 </p>
 
