@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Federico Aieta
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39DF76&background=FF000000&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%2F+Spring+Boot+Enthusiast;Computer+Engineering+Student+at+UBA;Building+scalable+systems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=32&letterSpacing=0.1rem&pause=1000&color=6414FF&center=true&vCenter=true&width=600&lines=Spring+Boot+Backend+Developer;Pursuing+Computer+Engineering+at+UBA;Building+with+the+best+practices" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
