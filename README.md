@@ -1,64 +1,70 @@
-<h1 align="center">👋 Hi, I'm Federico Aieta</h1>
-<h2 align="center">
-  A backend developer on a learning path, from Buenos Aires, Argentina
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina Flag" width="30"/>
-</h2>
+# 👋 Hi, I'm Federico Aieta
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39DF76&background=FF000000&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%2F+Spring+Boot+Enthusiast;Computer+Engineering+Student+at+UBA;Building+scalable+systems" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
-  <img src="https://github.com/maaaseee/maaaseee/blob/45e2a63df6b6b053cb708028fc2462d0a01af483/resources/121662.gif" alt="animated" max-width="100%"/>
+  <img src="https://img.shields.io/github/followers/maaaseee?label=Followers&style=for-the-badge&color=238636&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/maaaseee?style=for-the-badge&color=e3b341&logo=github" alt="GitHub stars" />
 </p>
 
 ---
 
-<h2 align="center">🛠 About me </h2>
+## 🛠️ About me
 
-<div>
+I am a passionate **Backend Developer** from Buenos Aires, Argentina 🇦🇷. I graduated as a **University technician in programming** from **UTN FRA** and I am currently pursuing my degree in **Computer Engineering** (Ingeniería en Informática) at **UBA** (Universidad de Buenos Aires). 
 
-### - 🎓 Studying at UTN FRA (Universidad Tecnológica Nacional)
+I love taking ideas, turning them into clean code, and always adding that extra "plus one" (+1) to make them stand out.
 
-</div>
-
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-  <!-- Lenguajes -->
-  <div>
-    <h3>🔧 Languages</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,java,js,typescript,angular,html,css,python&theme=dark&perline=10" height="60" />
-    </a>
-  </div>
-
-  <!-- Herramientas -->
-  <div>
-    <h3>🎆 Tools</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,vscode&theme=dark&perline=10" height="60" />
-    </a>
-  </div>
-
-  <div>
-    <h3>🎓 Currently learning</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,docker,aws&theme=dark&perline=10" height="60" />
-    </a>
-  </div>
-</div>
-
+*   🎓 **Education:** Graduate from UTN FRA | Engineering Student at UBA.
+*   💻 **Backend Philosophy:** I design software focused on decoupling and maintainability, relying on **Hexagonal Architecture** and **Domain-Driven Design (DDD)** principles to keep business logic clean and isolated.
+*   🚀 **Current Focus:** Deepening my cloud expertise with **Azure** and setting my path toward **Machine Learning (ML)** and **MLOps**.
+*   🌱 **Mindset:** Always exploring new software engineering paradigms to build robust, production-ready systems.
 
 ---
 
-<h2 align="center">🔗 Connect with me </h2>
-<p align="center">
+## 💻 Tech Stack
+
+<div align="left">
+
+### 🔧 Languages & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,js,typescript,angular,python,html,css&theme=dark" alt="Languages and Frameworks" />
+</a>
+
+### 🎆 Databases & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,vscode,idea&theme=dark" alt="Databases and Tools" />
+</a>
+
+### 🎓 Currently learning / Improving
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=azure,linux,bash&theme=dark" alt="Learning Techs" />
+</a>
+
+</div>
+
+---
+
+## 🔗 Connect with me
+
+Interested in collaborating or just chatting about backend engineering? Reach out to me:
+
+<p align="left">
   <a href="https://www.linkedin.com/in/federico-aieta-133b8226b/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=10" alt="Linkedin" height="50" width="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:federicoaieta99@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats:</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maaaseee&show_icons=true&theme=dark" alt="Federico's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaaseee&layout=compact&theme=dark" alt="Federico's GitHub Top Languages" width="400"/>
-</div>
+## 📊 GitHub Stats
 
----
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maaaseee&theme=tokyonight&hide_border=true" alt="Federico's GitHub Streak" width="100%" />
+  </p>
+</div>
