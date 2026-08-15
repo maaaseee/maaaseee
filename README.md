@@ -51,10 +51,10 @@ I love taking ideas, turning them into clean code, and always adding that extra 
 Interested in collaborating or just chatting about backend engineering? Reach out to me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/federico-aieta-133b8226b/" target="blank">
+  <a href="https://www.linkedin.com/in/aieta-federico/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:federicoaieta99@gmail.com" target="blank">
+  <a href="mailto:federicoaieta@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
