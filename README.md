@@ -39,7 +39,7 @@ I love taking ideas, turning them into clean code, and always adding that extra 
 
 ### 🎓 Currently learning / Improving
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=azure,linux,bash&theme=dark" alt="Learning Techs" />
+  <img src="https://skillicons.dev/icons?i=azure,linux,vue&theme=dark" alt="Learning Techs" />
 </a>
 
 </div>
